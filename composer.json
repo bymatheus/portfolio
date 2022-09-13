@@ -1,9 +1,17 @@
 {
-    "name": "laravel/laravel",
+    "name": "mplusc/portfolio",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Esse é o código do meu portfólio pessoal, com quase todos os projetos que eu trabalhei.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus Camargo Xavier",
+            "email": "oi@matheuscamargo.co",
+            "homepage": "https://matheuscamargo.co",
+            "role": "Engineer"
+        }
+    ],
     "require": {
         "php": "^8.0.2",
         "guzzlehttp/guzzle": "^7.2",
